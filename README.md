@@ -84,6 +84,7 @@ public class Comercial extends Empleado{
     }
 }
 // Clase de inicio
+
 public class EmpleadoApp {
  
     public static void main(String[] args) {
